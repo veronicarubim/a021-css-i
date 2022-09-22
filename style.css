@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    font-family: Helvetica, sans-serif;
+    font-size: 0.9rem;
+    color: white;
+}
+article {
+    display: block
+}
+.bloco{
+    height: 6vw;
+    width: 23vw;
+    margin: 0.5vw;
+    padding: 1% 1% 1% 1%
+}
+
+#bloco-1 {
+    background-color: orange;
+    border: solid 5px rgb(255, 201, 101);
+    
+}
+
+#bloco-2 {
+    background-color: rgb(46, 104, 38);
+    border: solid 5px rgb(108, 155, 102);
+      
+}
+
+#bloco-3 {
+    background-color: rgb(10, 61, 18);
+    border: dashed 5px rgb(37, 138, 62);
+       
+}
+
+#bloco-4 {
+    background-color: rgb(226, 45, 0);
+    border: dashed 5px rgb(243, 82, 77);
+}
+
